@@ -25,7 +25,7 @@ def get_weights(num_criteria):
                                   'вес для пары должно быть задан положительным числом!!!' + Style.RESET_ALL)
                     except ValueError:  # ловим исключение при ошибке
                         print('\033[31m', 'вес для пары должно быть задан числом!!!' + Style.RESET_ALL)
-                        num_criteria = 0
+                        weight = 0
                         pass
                 matrix[i][j] = weight
 
