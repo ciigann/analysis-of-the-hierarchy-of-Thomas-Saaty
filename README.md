@@ -17,9 +17,7 @@
 
 тест_1(обработка ошибки неккоректного ввода количества критериев, данных попарного сравнения критериев)
 
-![image](https://github.com/ciigann/analysis-of-the-hierarchy-of-Thomas-Saaty/assets/146112930/74db787b-8ce5-486b-9d78-bc9237afd04c)
-
-![image](https://github.com/ciigann/analysis-of-the-hierarchy-of-Thomas-Saaty/assets/146112930/05d8db7a-081b-4fe9-a45c-ae24ce47cdad)
+![image](https://github.com/ciigann/analysis-of-the-hierarchy-of-Thomas-Saaty/assets/146112930/67db96dc-eb8a-415c-8cb3-d51fa9151de0)
 
 тест_2
 
